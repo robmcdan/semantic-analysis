@@ -1,0 +1,291 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1">
+      <data key="d0">time, applause, leader</data>
+    </node>
+    <node id="2">
+      <data key="d0">america, people, jobs</data>
+    </node>
+    <node id="4">
+      <data key="d0">question, climate_change, clip</data>
+    </node>
+    <node id="7">
+      <data key="d0">information, wrong, government</data>
+    </node>
+    <node id="10">
+      <data key="d0">country, quickly, time</data>
+    </node>
+    <node id="12">
+      <data key="d0">governor, crosstalk, federal_government</data>
+    </node>
+    <node id="14">
+      <data key="d0">lot, big, work</data>
+    </node>
+    <node id="15">
+      <data key="d0">pay, taxes, percent</data>
+    </node>
+    <node id="16">
+      <data key="d0">government, social_security, medicare</data>
+    </node>
+    <node id="20">
+      <data key="d0">problem, law, home</data>
+    </node>
+    <node id="21">
+      <data key="d0">congress, time, deal</data>
+    </node>
+    <node id="22">
+      <data key="d0">college, country, kids</data>
+    </node>
+    <node id="23">
+      <data key="d0">world, o'malley, john</data>
+    </node>
+    <node id="24">
+      <data key="d0">country, life, political</data>
+    </node>
+    <node id="25">
+      <data key="d0">place, people, president</data>
+    </node>
+    <node id="27">
+      <data key="d0">new_jersey, bring, deal</data>
+    </node>
+    <node id="31">
+      <data key="d0">inaudible, mentioned, white_house</data>
+    </node>
+    <node id="36">
+      <data key="d0">support, can't, wasn't</data>
+    </node>
+    <node id="37">
+      <data key="d0">president, country, united_states</data>
+    </node>
+    <node id="38">
+      <data key="d0">veterans, veteran, bill</data>
+    </node>
+    <node id="39">
+      <data key="d0">people, police, america</data>
+    </node>
+    <node id="40">
+      <data key="d0">trade, china, eminent_domain</data>
+    </node>
+    <node id="43">
+      <data key="d0">o'malley, governor, percent</data>
+    </node>
+    <node id="44">
+      <data key="d0">money, dollars, millions</data>
+    </node>
+    <node id="45">
+      <data key="d0">city, lot, things</data>
+    </node>
+    <node id="46">
+      <data key="d0">start, reform, path</data>
+    </node>
+    <node id="49">
+      <data key="d0">senator, governor, senate</data>
+    </node>
+    <node id="52">
+      <data key="d0">business, power, companies</data>
+    </node>
+    <node id="53">
+      <data key="d0">state, o'malley, john</data>
+    </node>
+    <node id="57">
+      <data key="d0">president, approach, ronald_reagan</data>
+    </node>
+    <node id="58">
+      <data key="d0">military, women, commander-in-chief</data>
+    </node>
+    <node id="59">
+      <data key="d0">people, applause, happen</data>
+    </node>
+    <edge source="1" target="57">
+      <data key="d1">0.333319671852</data>
+    </edge>
+    <edge source="1" target="27">
+      <data key="d1">0.331088925592</data>
+    </edge>
+    <edge source="1" target="20">
+      <data key="d1">0.331754929448</data>
+    </edge>
+    <edge source="2" target="24">
+      <data key="d1">0.335775791834</data>
+    </edge>
+    <edge source="2" target="44">
+      <data key="d1">0.350474560711</data>
+    </edge>
+    <edge source="2" target="22">
+      <data key="d1">0.348804422327</data>
+    </edge>
+    <edge source="2" target="15">
+      <data key="d1">0.333895856513</data>
+    </edge>
+    <edge source="4" target="31">
+      <data key="d1">0.330372538031</data>
+    </edge>
+    <edge source="7" target="20">
+      <data key="d1">0.330993684011</data>
+    </edge>
+    <edge source="10" target="20">
+      <data key="d1">0.336968716361</data>
+    </edge>
+    <edge source="10" target="12">
+      <data key="d1">0.342553030638</data>
+    </edge>
+    <edge source="10" target="38">
+      <data key="d1">0.337587724646</data>
+    </edge>
+    <edge source="10" target="52">
+      <data key="d1">0.335318143261</data>
+    </edge>
+    <edge source="12" target="21">
+      <data key="d1">0.339499712804</data>
+    </edge>
+    <edge source="12" target="23">
+      <data key="d1">0.335005060795</data>
+    </edge>
+    <edge source="12" target="24">
+      <data key="d1">0.341978225506</data>
+    </edge>
+    <edge source="12" target="57">
+      <data key="d1">0.33304015352</data>
+    </edge>
+    <edge source="12" target="59">
+      <data key="d1">0.333706309483</data>
+    </edge>
+    <edge source="12" target="31">
+      <data key="d1">0.348021224733</data>
+    </edge>
+    <edge source="14" target="24">
+      <data key="d1">0.33223367024</data>
+    </edge>
+    <edge source="14" target="49">
+      <data key="d1">0.33194124778</data>
+    </edge>
+    <edge source="14" target="27">
+      <data key="d1">0.347852802111</data>
+    </edge>
+    <edge source="16" target="24">
+      <data key="d1">0.334657520538</data>
+    </edge>
+    <edge source="20" target="36">
+      <data key="d1">0.338167450462</data>
+    </edge>
+    <edge source="20" target="45">
+      <data key="d1">0.3351300031</data>
+    </edge>
+    <edge source="20" target="24">
+      <data key="d1">0.332377652513</data>
+    </edge>
+    <edge source="20" target="25">
+      <data key="d1">0.332763480495</data>
+    </edge>
+    <edge source="20" target="27">
+      <data key="d1">0.341422515296</data>
+    </edge>
+    <edge source="21" target="36">
+      <data key="d1">0.33408881711</data>
+    </edge>
+    <edge source="21" target="39">
+      <data key="d1">0.336635059883</data>
+    </edge>
+    <edge source="21" target="53">
+      <data key="d1">0.333680961155</data>
+    </edge>
+    <edge source="21" target="22">
+      <data key="d1">0.334646254391</data>
+    </edge>
+    <edge source="21" target="24">
+      <data key="d1">0.34107787183</data>
+    </edge>
+    <edge source="21" target="27">
+      <data key="d1">0.331678111319</data>
+    </edge>
+    <edge source="21" target="31">
+      <data key="d1">0.335210396092</data>
+    </edge>
+    <edge source="22" target="38">
+      <data key="d1">0.337184784703</data>
+    </edge>
+    <edge source="22" target="43">
+      <data key="d1">0.335566405313</data>
+    </edge>
+    <edge source="22" target="24">
+      <data key="d1">0.346630811658</data>
+    </edge>
+    <edge source="22" target="27">
+      <data key="d1">0.331884741738</data>
+    </edge>
+    <edge source="22" target="53">
+      <data key="d1">0.333631994491</data>
+    </edge>
+    <edge source="24" target="36">
+      <data key="d1">0.334524185734</data>
+    </edge>
+    <edge source="24" target="38">
+      <data key="d1">0.34906668965</data>
+    </edge>
+    <edge source="24" target="46">
+      <data key="d1">0.337309802542</data>
+    </edge>
+    <edge source="24" target="45">
+      <data key="d1">0.336553861897</data>
+    </edge>
+    <edge source="24" target="57">
+      <data key="d1">0.336850001765</data>
+    </edge>
+    <edge source="24" target="58">
+      <data key="d1">0.342979209199</data>
+    </edge>
+    <edge source="24" target="27">
+      <data key="d1">0.357709672755</data>
+    </edge>
+    <edge source="24" target="31">
+      <data key="d1">0.333213632285</data>
+    </edge>
+    <edge source="25" target="27">
+      <data key="d1">0.336124247894</data>
+    </edge>
+    <edge source="27" target="38">
+      <data key="d1">0.355636130482</data>
+    </edge>
+    <edge source="27" target="39">
+      <data key="d1">0.332823102582</data>
+    </edge>
+    <edge source="27" target="49">
+      <data key="d1">0.330206456169</data>
+    </edge>
+    <edge source="27" target="57">
+      <data key="d1">0.35427180641</data>
+    </edge>
+    <edge source="27" target="58">
+      <data key="d1">0.331022023633</data>
+    </edge>
+    <edge source="27" target="59">
+      <data key="d1">0.334671830267</data>
+    </edge>
+    <edge source="27" target="53">
+      <data key="d1">0.332956712555</data>
+    </edge>
+    <edge source="31" target="39">
+      <data key="d1">0.333267641666</data>
+    </edge>
+    <edge source="36" target="40">
+      <data key="d1">0.330072848665</data>
+    </edge>
+    <edge source="37" target="58">
+      <data key="d1">0.346978393833</data>
+    </edge>
+    <edge source="38" target="59">
+      <data key="d1">0.340789067953</data>
+    </edge>
+    <edge source="39" target="45">
+      <data key="d1">0.331666258368</data>
+    </edge>
+    <edge source="45" target="53">
+      <data key="d1">0.337681409476</data>
+    </edge>
+    <edge source="49" target="53">
+      <data key="d1">0.332778070557</data>
+    </edge>
+  </graph>
+</graphml>

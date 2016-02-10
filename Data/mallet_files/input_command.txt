@@ -1,0 +1,1 @@
+./bin/mallet import-file --input ~/Documents/datapalooza/data/mallet_raw_statements.txt --output ~/Documents/datapalooza/data/mallet_files/debates.sequences --keep-sequence --replacement-files ~/Documents/datapalooza/data/mallet_files/replacements.txt --deletion-files ~/Documents/datapalooza/data/mallet_files/replacements.txt --remove-stopwords
